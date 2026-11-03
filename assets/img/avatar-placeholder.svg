@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <defs>
+    <linearGradient id="background" x1="20" y1="8" x2="221" y2="239" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="62" y1="151" x2="181" y2="241" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#1e40af"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="120" fill="url(#background)"/>
+  <circle cx="120" cy="91" r="44" fill="#e2e8f0"/>
+  <path d="M37 226c8-43 39-68 83-68s75 25 83 68" fill="url(#shirt)"/>
+  <path d="M76 84c4-26 20-40 45-40 18 0 33 8 42 23-19-8-35-9-49-2-10 5-21 12-38 19Z" fill="#334155"/>
+</svg>
